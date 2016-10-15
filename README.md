@@ -25,3 +25,7 @@ Possible use cases could be:
 ## Contributing
 
 Any ideas or contributions would be greatly appreciated. Contact me at jacob (at) j2h2.com.
+
+## License
+
+This project is licensed under the GNU General Public License (GPL) v3.0
